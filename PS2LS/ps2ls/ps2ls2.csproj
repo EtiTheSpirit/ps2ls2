@@ -137,6 +137,7 @@
     <Compile Include="Assets\Dme\BoneDrawCall.cs" />
     <Compile Include="Assets\Mrn\Mrn.cs" />
     <Compile Include="Assets\Pack\NamelistGenerator.cs" />
+    <Compile Include="Async\LimitedConcurrencyTaskScheduler.cs" />
     <Compile Include="FMOD\fmod.cs" />
     <Compile Include="FMOD\fmod_dsp.cs" />
     <Compile Include="FMOD\fmod_errors.cs" />
